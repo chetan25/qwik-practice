@@ -46,6 +46,7 @@ npm run qwik add # or `yarn qwik add`
 
 ## Development
 
+Don't forget to update the `.env` file with your Github App credentials. Prisma schema and migrations are already in there.
 Development mode uses [Vite's development server](https://vitejs.dev/). The `dev` command will server-side render (SSR) the output during development.
 
 ```shell
